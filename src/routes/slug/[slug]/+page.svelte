@@ -2,4 +2,4 @@
     import {page} from '$app/stores';
 </script>
 
-load page
+slug: {$page.params.slug}
